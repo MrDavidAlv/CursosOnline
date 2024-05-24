@@ -40,7 +40,7 @@ Explorando el curso de Introducción a C de Platzi, me sumergí en los fundament
 ## Introducción a C++
 En el curso de Introducción a C++ de Platzi, adquirí conocimientos fundamentales sobre este poderoso lenguaje de programación. Desde la sintaxis básica hasta conceptos de programación orientada a objetos, este curso me permitió desarrollar una base sólida en C++ para crear programas eficientes y robustos.
 
-<div id="header" align="center"> <img src="/Platzi/images/introduccionc++.png" width="100%" alt="mario alvarez"/> </div>
+<div id="header" align="center"> <img src="/Platzi/images/introducción cpp.png" width="100%" alt="mario alvarez"/> </div>
 <br>
 
 ## Introducción a la Web: Historia y Funcionamiento de Internet
