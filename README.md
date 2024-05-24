@@ -40,15 +40,30 @@ Explorando el curso de Introducción a C de Platzi, me sumergí en los fundament
 ## Introducción a C++
 En el curso de Introducción a C++ de Platzi, adquirí conocimientos fundamentales sobre este poderoso lenguaje de programación. Desde la sintaxis básica hasta conceptos de programación orientada a objetos, este curso me permitió desarrollar una base sólida en C++ para crear programas eficientes y robustos.
 
+<div id="header" align="center"> <img src="/Platzi/images/introduccionc++.png" width="100%" alt="mario alvarez"/> </div>
+<br>
+
 ## Introducción a la Web: Historia y Funcionamiento de Internet
 Durante el curso de Introducción a la Web: Historia y Funcionamiento de Internet de Platzi, exploré los orígenes y la evolución de internet. Desde la transmisión de datos hasta la navegación y comunicación en línea, este curso me proporcionó una comprensión profunda de cómo funciona la web.
+
+<div id="header" align="center"> <img src="/Platzi/images/introdución a la web.png" width="100%" alt="mario alvarez"/> </div>
+<br>
 
 ## Curso básico de algoritmos y pensamiento lógico
 En el curso Básico de Algoritmos y Pensamiento Lógico de Platzi, desarrollé habilidades fundamentales en resolución de problemas. Desde lógica computacional hasta estructuras de datos básicas, este curso me ayudó a mejorar mi capacidad para abordar desafíos de programación de manera estructurada y eficiente.
 
+<div id="header" align="center"> <img src="/Platzi/images/curso básico de algoritmos y pensamiento lógico.png" width="100%" alt="mario alvarez"/> </div>
+<br>
+
 ##  Configuración de entorno de desarrollo en Linux
 Durante el curso de Configuración de Entorno de Desarrollo en Linux de Platzi, aprendí a optimizar mi sistema Linux para el desarrollo de software. Desde la instalación de herramientas esenciales hasta la configuración de entornos de programación, este curso me permitió establecer un entorno de desarrollo robusto y eficiente en Linux.
 
+<div id="header" align="center"> <img src="/Platzi/images/entorno linux.png" width="100%" alt="mario alvarez"/> </div>
+<br>
+
 ## Configuración de entorno de desarrollo en windows
 Explorando el curso de Configuración de Entorno de Desarrollo en Windows de Platzi, aprendí a preparar mi sistema Windows para el desarrollo de software. Desde la instalación de herramientas esenciales hasta la gestión de paquetes, este curso me proporcionó las habilidades para establecer un entorno de desarrollo eficiente en Windows.
+
+<div id="header" align="center"> <img src="/Platzi/images/entorno windows.png" width="100%" alt="mario alvarez"/> </div>
+<br>
 
